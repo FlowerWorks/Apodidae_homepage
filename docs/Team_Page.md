@@ -12,7 +12,7 @@ const members = [
   {
     avatar: '/nalanyinyun.jpg',
     name: 'Nalanyinyun',
-    title: 'Writer,Developer,Maintainer',
+    title: 'Developer,Maintainer,Website Developer',
     links: [
       { icon: 'github', link: 'https://github.com/naranyinyun' },
       { icon: 'youtube', link: 'https://space.bilibili.com/384920476' },

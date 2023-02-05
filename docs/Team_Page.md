@@ -21,7 +21,7 @@ const members = [
   {
     avatar: '/RBQ.jpg',
     name: 'XiaHua',
-    title: 'Developer,Maintainer',
+    title: 'Developer,Maintainer,RBQ',
     links: [
         { icon: 'youtube', link: 'https://space.bilibili.com/251529945' },
         { icon: 'github', link: 'https://github.com/XiaHuaBeiChiDiaoLe' }

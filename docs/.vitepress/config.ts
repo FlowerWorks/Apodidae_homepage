@@ -1,6 +1,7 @@
 export default {
   title: 'Apodidae',
   themeConfig: {
-    logo: '/back.svg'
+    logo: '/back.svg',
+    
     },
   }

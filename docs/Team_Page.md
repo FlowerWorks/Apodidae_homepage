@@ -12,7 +12,7 @@ const members = [
   {
     avatar: '/nalanyinyun.jpg',
     name: 'Nalanyinyun',
-    title: 'Developer,Maintainer,Website Developer',
+    title: 'Writer,Developer,Maintainer',
     links: [
       { icon: 'github', link: 'https://github.com/naranyinyun' },
       { icon: 'youtube', link: 'https://space.bilibili.com/384920476' },
@@ -21,7 +21,7 @@ const members = [
   {
     avatar: '/RBQ.jpg',
     name: 'XiaHua',
-    title: 'Developer,Maintainer,RBQ',
+    title: 'Developer,Maintainer',
     links: [
         { icon: 'youtube', link: 'https://space.bilibili.com/251529945' },
         { icon: 'github', link: 'https://github.com/XiaHuaBeiChiDiaoLe' }

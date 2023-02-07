@@ -19,6 +19,7 @@ jobs:
           node-version: 19.3.0 
           cache: "pnpm"
       - run: pnpm add vitepress vue
+      - run: pnpm add sass
       - run: pnpm docs:build
       
       - name: Deploy

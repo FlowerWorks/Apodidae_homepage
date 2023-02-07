@@ -20,3 +20,15 @@
 > 对卡顿情况的描述，如场景，运行应用，温度  
 > Android & 定制 UI 版本  
 > **SoC** 在卡顿情况下的实际功耗  
+
+
+
+<style lang="scss">
+::-webkit-scrollbar {
+  width: 0 !important;
+}
+::-webkit-scrollbar {
+  width: 0 !important;height: 0;
+}
+</style>
+

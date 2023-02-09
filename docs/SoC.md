@@ -1,4 +1,5 @@
 # SoC
+流程(并非每步都是必要的): In Progress > Canary > Alpha > Beta > RC > Release
 ## MediaTek
 ### [MT6785 (Helio G90/G90T)](https://github.com/naranyinyun/Apodidae/blob/Configs/helio_g90.json) <Badge type="tip" text="Release" />
 Redmi Note 8 Pro <Badge type="info" text="AOSP Android T" />

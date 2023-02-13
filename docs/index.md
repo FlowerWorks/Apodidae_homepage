@@ -17,9 +17,9 @@ hero:
         - theme: alt
           text: View Project Developers
           link: Team_Page.md
-         - theme: brand
-         text: Join our discussions
-         link: https://github.com/naranyinyun/Apodidae/discussions
+        - theme: brand
+          text: Join our discussions
+          link: https://github.com/naranyinyun/Apodidae/discussions
 features:
     - title: 低开销
       details: 使用 C&C++ 开发，在低开销的同时实现高性能和无与伦比的功能性

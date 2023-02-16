@@ -48,7 +48,7 @@ SoC 体质，系统版本等等一大堆东西都会影响监测数据
 纳兰音韵不玩游戏,同样不会针对游戏调整
 
 ## Uperf & Apodidae 为何选择我们?
-![image](/uperf.img)
+![image](/uperf.jpg)
 
 
 <style lang="scss">

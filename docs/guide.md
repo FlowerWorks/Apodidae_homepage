@@ -29,7 +29,8 @@ Apodidae 提供了两种使用方式：
 - Cutoolbox 配置文件
 
 **两种使用方式只能选择一种，如果你非要一起用，打架别来找我**
-
+**Magisk 模块切换模式需要在终端内使用`CuDaemon -R 【配置文件路径】【调度模式文件(cur_mode.txt)路径】【调度日志文件生成路径`**  
+**如果你看不懂上面那句话里的任何一个词，请使用cutoolbox**  
 **Apodidae 基于 CuprumTurbo-Scheduler，但与 Cutoolbox 不同，Cutoolbox 基于 CuprumTurbo-Scheduler 实现并加入了一些扩展功能**  
 **Apodidae 基于 CuprumTurbo-Scheduler, 但目前并未在源代码上做出任何更改，所以 Apodidae 与 CuprumTurbo-Scheduler 互相兼容**  
 

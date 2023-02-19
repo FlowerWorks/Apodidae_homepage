@@ -16,3 +16,5 @@
 ### Dimensity 900/920/930/1080 <Badge type="warning" text="Beta" />
 > Redmi Note 11 Pro  
 > Redmi Note 12 Pro  
+### Dimensity 1000L/1000+ <Badge type="warning" text="Alpha" />
+> Unknown

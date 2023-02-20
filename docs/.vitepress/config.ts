@@ -6,7 +6,12 @@ export default {
       { text: "About us", link: "/Team_Page" },
       { text: "Support SoC", link: "/SoC" },
       { text: "Contribution", link: "/contribution"},
-      { text: "Guide", link: "/guide"}
-    ]
+      { text: "Guide", link: "/guide"},
+    ],
+    footer: {
+      message: "Open Source under the GPL_V3 License.",
+      copyright: "Copyright 2022 Nalanyinyun | <a href='https://dashboard.nalanyinyun.ml/'>Status</a>"
+    }
+
     },
   }

@@ -4,7 +4,7 @@ export default {
     logo: '/back.svg',
     nav: [
       { text: "About us", link: "/Team_Page" },
-      { text: "Support SoC", link: "/SoC" },
+      { text: "Blog", link: "https://blog.nalanyinyun.ml/" },
       { text: "Contribution", link: "/contribution"},
       { text: "Guide", link: "/guide"},
     ],

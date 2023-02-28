@@ -7,7 +7,7 @@ specifiers:
 
 dependencies:
   sass: registry.npmmirror.com/sass/1.58.0
-  vitepress: registry.npmmirror.com/vitepress/1.0.0-alpha.45_sass@1.58.0
+  vitepress: registry.npmmirror.com/vitepress/1.0.0-alpha.48_sass@1.58.0
   vue: registry.npmmirror.com/vue/3.2.47
 
 packages:

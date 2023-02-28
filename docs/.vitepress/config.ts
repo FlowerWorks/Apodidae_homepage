@@ -4,13 +4,13 @@ export default {
     logo: '/back.svg',
     nav: [
       { text: "About us", link: "/Team_Page" },
-      { text: "Support SoC", link: "/SoC" },
+      { text: "Blog", link: "https://blog.nalanyinyun.ml/" },
       { text: "Contribution", link: "/contribution"},
       { text: "Guide", link: "/guide"},
     ],
     footer: {
       message: "Open Source under the GPL_V3 License.",
-      copyright: "Copyright 2022 Nalanyinyun | <a href='https://dashboard.nalanyinyun.ml/'>Status</a>"
+      copyright: "Copyright 2022 Nalanyinyun | <a href='https://status.nalanyinyun.top/'>Status</a>"
     }
 
     },

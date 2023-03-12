@@ -20,7 +20,7 @@ jobs:
           cache: "pnpm"
       - run: pnpm add vitepress vue sass
       - run: pnpm up --latest
-      - run: pnpm docs:build --mpa
+      - run: pnpm docs:build
       
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

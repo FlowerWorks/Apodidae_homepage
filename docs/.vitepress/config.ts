@@ -4,7 +4,7 @@ export default {
     logo: '/back.svg',
     nav: [
       { text: "About us", link: "/Team_Page" },
-      { text: "Download", link: "https://github.com/naranyinyun/Apodidae/releass/latest" },
+      { text: "Download", link: "https://github.com/naranyinyun/Apodidae/releases/latest" },
       { text: "Contribution", link: "/contribution"},
       { text: "Guide", link: "/guide"},
     ],

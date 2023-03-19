@@ -48,8 +48,8 @@ Apodidae 提供了两种使用方式：
 SoC 体质，系统版本等等一大堆东西都会影响监测数据  
 
 ## Uperf & Apodidae 为何选择我们？
-![This-is-DJ](/uperf.jpg)  
-![This-is-OP](/op.jpg)
+![This is DJ](/uperf.jpg)  
+![This is OP](/OP.jpg)
 
 <style lang="scss">
 ::-webkit-scrollbar {

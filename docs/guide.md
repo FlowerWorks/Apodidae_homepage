@@ -31,7 +31,7 @@ Apodidae 提供了两种使用方式：
 **两种使用方式只能选择一种，如果你非要一起用，打架别来找我**
 
 **Magisk 模块切换模式需要在终端内使用`CuDaemon -R 【配置文件路径】【调度模式文件(cur_mode.txt)路径】【调度日志文件生成路径`**  
-**如果你看不懂上面那句话里的任何一个词，请使用cutoolbox**  
+**如果你看不懂上面那句话里的任何一个词，请使用 cutoolbox**  
 
 **Apodidae 基于 CuprumTurbo-Scheduler，但与 Cutoolbox 不同，Cutoolbox 基于 CuprumTurbo-Scheduler 实现并加入了一些扩展功能**  
 **Apodidae 基于 CuprumTurbo-Scheduler, 但目前并未在源代码上做出任何更改，所以 Apodidae 与 CuprumTurbo-Scheduler 互相兼容**  
@@ -47,12 +47,9 @@ Apodidae 提供了两种使用方式：
 ## 为什么我的监测数据相对于其他人来说不够优秀
 SoC 体质，系统版本等等一大堆东西都会影响监测数据  
 
-## 为什么部分 SoC 的游戏表现不太好
-纳兰音韵不玩游戏,同样不会针对游戏调整
-
-## Uperf & Apodidae 为何选择我们?
-![image](/uperf.jpg)
-
+## Uperf & Apodidae 为何选择我们？
+![This is DJ](/uperf.jpg)  
+![This is OP](/op.jpg)
 
 <style lang="scss">
 ::-webkit-scrollbar {

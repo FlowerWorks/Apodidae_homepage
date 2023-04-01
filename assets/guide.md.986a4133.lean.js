@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as o,N as r}from"./chunks/framework.e09863ab.js";const t="/uperf.jpg",l="/OP.jpg";const g=JSON.parse('{"title":"概述","description":"","frontmatter":{},"headers":[],"relativePath":"guide.md"}'),i={name:"guide.md"},d=r("",30),n=[d];function p(h,s,u,c,_,b){return e(),o("div",null,n)}const P=a(i,[["render",p]]);export{g as __pageData,P as default};

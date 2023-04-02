@@ -2,8 +2,8 @@
 layout: home
 hero:
     name: Apodidae
-    text: 高效，高热，高质量的 MediaTek 高炉助燃器 
-    tagline: 基于 chenzyyzd 的 CuprumTurbo-Scheduler, 对其进行少数修改以破坏 MediaTek 设备的能耗表现
+    text: 轻量，节能，高性能的调度项目  
+    tagline: 基于 chenzyyzd 的 CuprumTurbo-Scheduler, 对其进行少数修改以改善 MediaTek 设备的能耗表现
     image: 
         src: back.svg
         alt: SVG LOGO

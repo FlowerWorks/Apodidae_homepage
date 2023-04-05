@@ -18,5 +18,5 @@
 > Redmi Note 12 Pro  
 ### Dimensity 1000L/1000+ <Badge type="tip" text="RC" />
 > Unknown
-### Dimensity 9000/9000+ <Badge type="danger" text="Canary" />
+### Dimensity 9000/9000+ <Badge type="warning" text="Beta" />
 > Redmi K50 Pro

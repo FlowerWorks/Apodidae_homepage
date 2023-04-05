@@ -26,13 +26,13 @@ Apodidae 现已推出 V2.0.0
 清单：包括但不限于  
 - 自由电子 e 天玑降压
 - 嘟嘟 ski ＆ 秋秋 CPUhvfs
-## 第三方 Kernel
-可能不兼容部分第三方 Kernel  
-Kernel 中无或修改了所需的调度器
+**降压带来的风险和问题与 Apodidae 没有任何间接或直接关系**
+## Unofficial Kernel
+可能不兼容部分第三方内核   
+内核中无或修改了所需的调度器  
 清单: 包括但不限于
 - Pandora Kernel
 
-**降压带来的风险和问题与 Apodidae 没有任何间接或直接关系**
 # 怎么用？
 Apodidae 提供了两种使用方式：
 - Magisk 模块

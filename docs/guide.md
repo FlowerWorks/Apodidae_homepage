@@ -20,8 +20,8 @@ Apodidae 现已推出 V2.0.0
 
 
 ## GPU Controller
-不兼容任何形式的 GPU 控制器，功能冲突  
-**MTD8100 从 2.6.14.Beta 开始兼容 GPU 控制器/调速器**
+不兼容任何形式的 GPU 控制器，功能冲突    
+**MTD8100 从 2.6.14.Beta 开始兼容 GPU 控制器/调速器**   
 清单：包括但不限于  
 - Scene MTK 专属功能内的 GPU 相关选项
 - 带有 GPU 调控功能的 Uperf

@@ -11,10 +11,14 @@ Apodidae 现已推出 V2.0.0
 清单：包括但不限于    
 - Scene 调度
 - Uperf
+
+
 ## Thread Scheduler
 不兼容任何形式的线程优化/调度，功能冲突  
 清单：包括但不限于
 - A-SOUL
+
+
 ## GPU Controller
 不兼容任何形式的 GPU 控制器，功能冲突  
 **MTD8100 从 2.6.14.Beta 开始兼容 GPU 控制器/调速器**
@@ -22,17 +26,23 @@ Apodidae 现已推出 V2.0.0
 - Scene MTK 专属功能内的 GPU 相关选项
 - 带有 GPU 调控功能的 Uperf
 - 天玑 GPU 调速器
+
+
 ## Voltage Optimization
 兼容 CPU/GPU 的降压应用    
 清单：包括但不限于  
 - 自由电子 e 天玑降压
 - 嘟嘟 ski ＆ 秋秋 CPUhvfs  
 **降压带来的风险和问题与 Apodidae 没有任何间接或直接关系**
+
+
 ## Unofficial Kernel
 可能不兼容部分第三方内核   
 内核中无或修改了所需的调度器  
 清单: 包括但不限于
 - Pandora Kernel
+
+
 
 # 怎么用？
 Apodidae 提供了两种使用方式：

@@ -26,7 +26,7 @@ Apodidae 现已推出 V2.0.0
 兼容 CPU/GPU 的降压应用    
 清单：包括但不限于  
 - 自由电子 e 天玑降压
-- 嘟嘟 ski ＆ 秋秋 CPUhvfs
+- 嘟嘟 ski ＆ 秋秋 CPUhvfs  
 **降压带来的风险和问题与 Apodidae 没有任何间接或直接关系**
 ## Unofficial Kernel
 可能不兼容部分第三方内核   

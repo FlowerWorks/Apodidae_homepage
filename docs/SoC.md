@@ -7,16 +7,16 @@
 > Redmi Note 11T Pro <Badge type="info" text="MIUI Android S & T" />  
 ### Dimensity 1200/1100 <Badge type="tip" text="Release" />
 > Redmi K40 Gaming Edition <Badge type="info" text="MIUI Android T" />
-### Dimensity 700/720/800U/810 <Badge type="tip" text="RC" />
+### Dimensity 700/720/800U/810 <Badge type="danger" text="In Progress" />
 > Coolpad X11 Lab Edition    
 > Redmi Note 10 5G  
 > Redmi Note 11 5G  
-### Dimensity 820 <Badge type="tip" text="RC" />
+### Dimensity 820 <Badge type="danger" text="In Progess" />
 > Redmi 10X 5G   
-### Dimensity 900/920/930/1080 <Badge type="tip" text="RC" />
+### Dimensity 900/920/930/1080 <Badge type="danger" text="In Progress" />
 > Redmi Note 11 Pro  
 > Redmi Note 12 Pro  
-### Dimensity 1000L/1000+ <Badge type="tip" text="RC" />
+### Dimensity 1000L/1000+ <Badge type="danger" text=" In Progress" />
 > Unknown
-### Dimensity 9000/9000+ <Badge type="warning" text="Beta" />
+### Dimensity 9000/9000+ <Badge type="danger" text="In Progress" />
 > Redmi K50 Pro

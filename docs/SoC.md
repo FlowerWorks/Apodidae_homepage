@@ -1,5 +1,7 @@
 # SoC
 流程(并非每步都是必要的): In Progress > Canary > Alpha > Beta > RC > Release
+Main Version Code is V3 Right Now   
+Any Version Before This Version Will Be Unsuppoted  
 ## MediaTek
 ### Helio G90T/G90 <Badge type="tip" text="Release" />
 > Redmi Note 8 Pro <Badge type="info" text="AOSP Android T" />

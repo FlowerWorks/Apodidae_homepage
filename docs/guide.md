@@ -1,13 +1,4 @@
 <!-- require MetingJS -->
-<script src="https://unpkg.com/meting@2.0.1/dist/Meting.min.js"></script>
-<!-- require APlayer -->
-<link rel="stylesheet" href="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css">
-<script src="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.js"></script>
-
-<meting-js
-	auto="https://music.163.com/#/song?id=1315609787">
-</meting-js>
-
 # 概述 
 Apodidae 现已推出 V2.0.0  
 本手册提供的任何信息都有在未来的某个时刻更改的可能  

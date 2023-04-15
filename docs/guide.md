@@ -7,30 +7,47 @@
 <meting-js server="netease" type="song" id="1889184941">
 
 # 概述 
-Apodidae 现已推出 V2.0.0 本手册提供的任何信息都有在未来的某个时刻更改的可能  
+Apodidae 现已推出 V2.0.0  
+本手册提供的任何信息都有在未来的某个时刻更改的可能  
 # 兼容性指南
 ## CPU Controller 
 不兼容其他任何形式的 CPU 调控器，功能冲突   
 清单：包括但不限于    
 - Scene 调度
 - Uperf
+
+
 ## Thread Scheduler
 不兼容任何形式的线程优化/调度，功能冲突  
 清单：包括但不限于
 - A-SOUL
+
+
 ## GPU Controller
-不兼容任何形式的 GPU 控制器，功能冲突  
+不兼容任何形式的 GPU 控制器，功能冲突     
+**MTD8100 除 2.6.14.Beta 外不再兼容任何形式的 GPU 控制器**    
 清单：包括但不限于  
 - Scene MTK 专属功能内的 GPU 相关选项
 - 带有 GPU 调控功能的 Uperf
 - 天玑 GPU 调速器
+
+
 ## Voltage Optimization
 兼容 CPU/GPU 的降压应用    
 清单：包括但不限于  
 - 自由电子 e 天玑降压
-- 嘟嘟 ski ＆ 秋秋 CPUhvfs
-
+- 嘟嘟 ski ＆ 秋秋 CPUhvfs  
 **降压带来的风险和问题与 Apodidae 没有任何间接或直接关系**
+
+
+## Unofficial Kernel
+可能不兼容部分第三方内核   
+内核中无或修改了所需的调度器  
+清单：包括但不限于
+- Pandora Kernel
+
+
+
 # 怎么用？
 Apodidae 提供了两种使用方式：
 - Magisk 模块
@@ -56,8 +73,8 @@ Apodidae 提供了两种使用方式：
 SoC 体质，系统版本等等一大堆东西都会影响监测数据  
 
 ## Uperf & Apodidae 为何选择我们？
-![This-is-DJ](/uperf.jpg)  
-![This-is-OP](/op.jpg)
+![This is DJ](/uperf.jpg)  
+![This is OP](/OP.jpg)
 
 <style lang="scss">
 ::-webkit-scrollbar {

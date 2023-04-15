@@ -3,7 +3,7 @@ export default {
   themeConfig: {
     logo: '/back.svg',
     nav: [
-      { text: "About us", link: "/Team_Page" },
+      { text: "Dev Blog", link: "https://devblog.nalanyinyun.top/" },
       { text: "Download", link: "https://github.com/naranyinyun/Apodidae/releases/latest" },
       { text: "Contribution", link: "/contribution"},
       { text: "Guide", link: "/guide"},

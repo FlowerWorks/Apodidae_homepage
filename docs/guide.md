@@ -4,7 +4,9 @@
 <link rel="stylesheet" href="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css">
 <script src="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.js"></script>
 
-<meting-js server="netease" type="song" id="1889184941">
+<meting-js
+	auto="https://music.163.com/#/song?id=1315609787">
+</meting-js>
 
 # 概述 
 Apodidae 现已推出 V2.0.0  

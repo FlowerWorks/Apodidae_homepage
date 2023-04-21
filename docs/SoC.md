@@ -1,5 +1,5 @@
 # SoC
-流程(并非每步都是必要的): In Progress > Canary > Alpha > Beta > RC > Release   
+Steps: In Progress > Canary > Alpha > Beta > RC > Release   
 Main Version Code is V3 Right Now   
 Any Version Before This Version Will Be Unsuppoted   
 

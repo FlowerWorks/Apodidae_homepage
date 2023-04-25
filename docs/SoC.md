@@ -11,7 +11,7 @@ Any Version Before This Version Will Be Unsuppoted
 > Redmi Note 11T Pro  
 ### Dimensity 1200/1100 <Badge type="tip" text="Release" />
 > Redmi K40 Gaming Edition  
-### Dimensity 700/720/800U/810 <Badge type="info" text="Np Plan" />
+### Dimensity 700/720/800U/810 <Badge type="info" text="No Plan" />
 > Coolpad X11 Lab Edition    
 > Redmi Note 10 5G  
 > Redmi Note 11 5G  

@@ -16,4 +16,8 @@
     --vp-c-brand-darker: #454ce1;
     --vp-badge-tip-border: #773bf9;
     --vp-badge-tip-text: #773bf9;
+    --vp-badge-warning-border: #f85523;
+    --vp-badge-warning-text: #f85523;
+    --vp-badge-danger-border: #e32636;
+    --vp-badge-danger-text: #e32636;
 }

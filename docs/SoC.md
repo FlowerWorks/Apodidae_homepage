@@ -17,7 +17,7 @@ Any Version Before This Version Will Be Unsuppoted
 > Redmi Note 11 5G  
 ### Dimensity 820 <Badge type="warning" text="Beta" />
 > Redmi 10X 5G   
-### Dimensity 900/920/930/1080 <Badge type="danger" text="In Progress" />
+### Dimensity 900/920/930/1080 <Badge type="warning" text="Beta" />
 > Redmi Note 11 Pro  
 > Redmi Note 12 Pro  
 ### Dimensity 1000L/1000+ <Badge type="warning" text="Beta" />

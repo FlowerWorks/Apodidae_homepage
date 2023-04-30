@@ -20,4 +20,8 @@
     --vp-badge-warning-text: #f85523;
     --vp-badge-danger-border: #e32636;
     --vp-badge-danger-text: #e32636;
+    --vp-badge-info-border: #ffc400;
+    --vp-badge-info-text: #ffc400;
+    --vp-badge-info-bg: #00000000;
+
 }

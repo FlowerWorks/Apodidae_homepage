@@ -1,5 +1,5 @@
 # 概述 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/naranyinyun/Apodidae?color=%23773bf9&label=Apodidae&style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/naranyinyun/Apodidae?color=%23773bf9&label=Apodidae&style=flat-square)   
 本手册提供的任何信息都有在未来的某个时刻更改的可能  
 # 兼容性指南
 ## CPU Controller 

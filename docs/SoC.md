@@ -1,5 +1,5 @@
 # SoC
-Steps: In Progress > Canary > Alpha > Beta > RC > Release   
+Steps: In Progress > Canary > Alpha > Beta > Release Candidate > Release   
 Main Version Code is V3 Right Now   
 Any Version Before This Version Will Be Unsuppoted   
 
@@ -11,18 +11,18 @@ Any Version Before This Version Will Be Unsuppoted
 > Redmi Note 11T Pro  
 ### Dimensity 1200/1100 <Badge type="tip" text="Release" />
 > Redmi K40 Gaming Edition  
-### Dimensity 700/720/800U/810 <Badge type="info" text="RC" />
+### Dimensity 700/720/800U/810 <Badge type="info" text="Release Candidate" />
 > Coolpad X11 Lab Edition    
 > Redmi Note 10 5G  
 > Redmi Note 11 5G  
-### Dimensity 820 <Badge type="info" text="RC" />
+### Dimensity 820 <Badge type="info" text="Release Candidate" />
 > Redmi 10X 5G   
-### Dimensity 900/920/930/1080 <Badge type="info" text="RC" />
+### Dimensity 900/920/930/1080 <Badge type="info" text="Release Candidate" />
 > Redmi Note 11 Pro  
 > Redmi Note 12 Pro  
-### Dimensity 1000L/1000+ <Badge type="info" text="RC" />
+### Dimensity 1000L/1000+ <Badge type="info" text="Release Candidate" />
 > Unknown
-### Dimensity 9000/9000+ <Badge type="info" text="RC" />
+### Dimensity 9000/9000+ <Badge type="info" text="Release Candidate" />
 > Redmi K50 Pro
 ### Helio G80 <Badge type="danger" text="In Progress" />
 > Redemi 9

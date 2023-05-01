@@ -24,6 +24,6 @@ Any Version Before This Version Will Be Unsuppoted
 > Unknown
 ### Dimensity 9000/9000+ <Badge type="info" text="Release Candidate" />
 > Redmi K50 Pro
-### Helio G80 <Badge type="danger" text="In Progress" />
+### Helio G80 <Badge type="warning" text="Alpha" />
 > Redemi 9
 

@@ -1,3 +1,7 @@
+import { inject } from '@vercel/analytics';
+ 
+inject();
+
 export default {
   title: 'Apodidae',
   themeConfig: {

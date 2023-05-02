@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: 19.3.0 
           cache: "pnpm"
-      - run: pnpm add vitepress vue sass
+      - run: pnpm add vitepress vue sass @vercel/analytics
       - run: pnpm up --latest
       - run: pnpm docs:build
       

@@ -10,7 +10,7 @@ export default {
     ],
     footer: {
       message: "Open Source under the GPL_V3 License.",
-      copyright: "Copyright 2022 Nalanyinyun | <a href='https://status.nalanyinyun.top/'>Status</a>"
+      copyright: "Copyright 2022-2023 Nalanyinyun & Lily Works | <a href='https://status.nalanyinyun.top/'>Status</a>"
     }
 
     },

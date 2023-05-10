@@ -11,7 +11,7 @@ Any Version Before This Version Will Be Unsuppoted
 > Redmi Note 11T Pro  
 ### Dimensity 1200/1100 <Badge type="tip" text="Release" />
 > Redmi K40 Gaming Edition  
-### Dimensity 700/720/800U/810 <Badge type="info" text="Release Candidate" />
+### Dimensity 700/720/800U/810 <Badge type="tip" text="Release" />
 > Coolpad X11 Lab Edition    
 > Redmi Note 10 5G  
 > Redmi Note 11 5G  
@@ -24,6 +24,6 @@ Any Version Before This Version Will Be Unsuppoted
 > Unknown
 ### Dimensity 9000/9000+ <Badge type="tip" text="Release" />
 > Redmi K50 Pro
-### Helio G80/G85/P65/P90 <Badge type="info" text="Beta" />
+### Helio G80/G85/P65/P90 <Badge type="jnfo" text="Release" />
 > Redemi 9
 

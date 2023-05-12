@@ -24,6 +24,6 @@ Any Version Before This Version Will Be Unsuppoted
 > Unknown
 ### Dimensity 9000/9000+ <Badge type="tip" text="Release" />
 > Redmi K50 Pro
-### Helio G80/G85/P65/P90 <Badge type="jnfo" text="Release" />
+### Helio G80/G85/P65/P90 <Badge type="tip" text="Release" />
 > Redemi 9
 

@@ -1,7 +1,13 @@
 # 概述 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/naranyinyun/Apodidae?color=%23773bf9&label=Apodidae&style=flat-square)   
 本手册提供的任何信息都有在未来的某个时刻更改的可能  
+
 # 兼容性指南
+## Cutoolbox Version
+无论何时，您必须使用 Cutoolbox Latest 版本配合 Apodidae Latest 版本使用，否则您出现的一切问题都认为与 Apodidae 和 Cutoolbox 无关  
+如果您不知道 Cutoobox 的 Latest Version Code，这里显示了 Cutoolbox 最新版的 Tag
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/chenzyyzd/CuprumTurbo-Scheduler?color=%23773bf9&label=Cutoolbox&style=flat-square)
 ## CPU Controller 
 不兼容其他任何形式的 CPU 调控器，功能冲突   
 清单：包括但不限于    

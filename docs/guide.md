@@ -3,7 +3,7 @@
 本手册提供的任何信息都有在未来的某个时刻更改的可能  
 
 # 重要信息
-Apodidae 不是 Uperf(又称YC) 的二改，也与Uperf 没有任何关联，您无法使用 Scene 等可管理 Uperf 的应用管理 Apodidae，如果您不想使用模块，则应使用 Cutoolbox 来实现对 Apodidae 的调控
+Apodidae 不是 Uperf (又称YC) 的二改，也与 Uperf 没有任何关联，您无法使用 Scene 等可管理 Uperf 的应用管理 Apodidae，如果您不想使用模块，则应使用 Cutoolbox 来实现对 Apodidae 的调控
 
 # 兼容性指南
 ## Cutoolbox Version

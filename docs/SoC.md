@@ -30,6 +30,6 @@ Any Version Before This Version Will Be Unsuppoted
 > Redmi Note 10 Pro
 
 ## NVIDIA
-### Tegra X1 <Badge type="danger" text="In Progress" />
+### Tegra X1 <Badge type="danger" text="Canary" />
 > Google Pixel C 
 

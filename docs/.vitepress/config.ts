@@ -12,7 +12,7 @@ export default {
       message: "Open Source under the GPL_V3 License.",
       copyright: "Copyright 2022-2023 Nalanyinyun & Lily Works | <a href='https://status.nalanyinyun.top/'>Status</a>"
     }
-    head: {
+    head:
               [
 
             'script',
@@ -20,7 +20,7 @@ export default {
             {defer: '', src: 'https://static.cloudflareinsights.com/beacon.min.js', 'data-cf-beacon': '{"token": "******"}'}
 
         ],
-    }
+
 
     },
   }

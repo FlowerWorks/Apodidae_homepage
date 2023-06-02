@@ -1,7 +1,3 @@
-import { inject } from '@vercel/analytics';
- 
-inject();
-
 export default {
   title: 'Apodidae',
   themeConfig: {
@@ -11,6 +7,9 @@ export default {
       { text: "Download", link: "https://github.com/naranyinyun/Apodidae/releases/latest" },
       { text: "Contribution", link: "/contribution"},
       { text: "Guide", link: "/guide"},
+   head: [
+     ['link', { rel: 'icon', herf:'back.svg' }],
+   ],
     ],
     footer: {
       message: "Open Source under the GPL_V3 License.",

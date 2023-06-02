@@ -13,8 +13,11 @@ export default {
     ],
     footer: {
       message: "Open Source under the GPL_V3 License.",
-      copyright: "Copyright 2022 Nalanyinyun | <a href='https://status.nalanyinyun.top/'>Status</a>"
-    }
-
+      copyright: "Copyright 2022-2023 Nalanyinyun & Lily Works | <a href='https://status.nalanyinyun.top/'>Status</a>"
+    },
+    head: [
+      'script',
+      {defer: '', src: 'https://static.cloudflareinsights.com/beacon.min.js', 'data-cf-beacon': '{"token": "edb2140bf87349168acde21e5b887e05"}'}
+    ],
     },
   }

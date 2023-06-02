@@ -1,7 +1,16 @@
 # 概述 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/naranyinyun/Apodidae?color=%23773bf9&label=Apodidae&style=flat-square)   
 本手册提供的任何信息都有在未来的某个时刻更改的可能  
+
+# 重要信息
+Apodidae 不是 Uperf (又称YC) 的二改，也与 Uperf 没有任何关联，您无法使用 Scene 等可管理 Uperf 的应用管理 Apodidae，如果您不想使用模块，则应使用 Cutoolbox 来实现对 Apodidae 的调控
+
 # 兼容性指南
+## Cutoolbox Version
+无论何时，您必须使用 Cutoolbox Latest 版本配合 Apodidae Latest 版本使用，否则您出现的一切问题都认为与 Apodidae 和 Cutoolbox 无关  
+如果您不知道 Cutoobox 的 Latest Version Code，这里显示了 Cutoolbox 最新版的 Tag
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/chenzyyzd/CuprumTurbo-Scheduler?color=%23773bf9&label=Cutoolbox&style=flat-square)
 ## CPU Controller 
 不兼容其他任何形式的 CPU 调控器，功能冲突   
 清单：包括但不限于    

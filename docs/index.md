@@ -3,7 +3,7 @@ layout: home
 hero:
     name: Apodidae
     text: 轻量，节能，高性能的调度项目  
-    tagline: 基于 chenzyyzd 的 CuprumTurbo-Scheduler, 对其进行少数修改以改善 MediaTek 设备的能耗表现
+    tagline: LilyWorks(Apodidae Developers) 祝诸位举子如愿以偿，金榜题名!
     image: 
         src: back.svg
         alt: SVG LOGO

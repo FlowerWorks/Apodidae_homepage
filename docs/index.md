@@ -3,7 +3,7 @@ layout: home
 hero:
     name: Apodidae
     text: 轻量，节能，高性能的调度项目  
-    tagline: LilyWorks(Apodidae Developers) 祝诸位举子如愿以偿，金榜题名!
+    tagline: LilyWorks 预祝诸位举子金榜题名!
     image: 
         src: back.svg
         alt: SVG LOGO

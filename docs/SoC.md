@@ -27,7 +27,7 @@ Any Version Before This Version Will Be Unsuppoted
 ### Helio G80 & G85 & P65 & P90 <Badge type="tip" text="Release" />
 > Redemi 9
 ### Dimensity 900 & 920 & 930 & 1080 <Badge type="danger" text="Alpha" />
-> Redmi Note 10 Pro
+> Redmi Note 11 Pro
 
 ## NVIDIA
 ### Tegra X1 <Badge type="danger" text="Canary" />

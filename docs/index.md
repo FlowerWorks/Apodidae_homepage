@@ -27,7 +27,7 @@ features:
     - title: 高性能
       details: 为每个核心集群提供独立的策略，缓解高功耗低性能问题
       icon: ⚡
-    - title: 开源
-      details: GPL-V3 许可下开源，你可以修改,使用,再发布等等,  只需遵守 GPL-V3
+    - title: 独立
+      details: 我们永远不会把 Apodidae 已经或将要实现的功能转移到其他的应用实现
       icon: 🔭
 ---

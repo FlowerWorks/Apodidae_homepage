@@ -3,7 +3,7 @@ layout: home
 hero:
     name: Apodidae
     text: 轻量，节能，高性能的调度项目  
-    tagline: 独立的另一种值得选择的尝试
+    tagline: LilyWorks 祝诸位中考生 春风得意马蹄疾,一日看尽长安花
     image: 
         src: back.svg
         alt: SVG LOGO

@@ -3,7 +3,7 @@ layout: home
 hero:
     name: Apodidae
     text: 轻量，节能，高性能的调度项目  
-    tagline: LilyWorks 祝诸位中考生 春风得意马蹄疾,一日看尽长安花
+    tagline: 6.25 日 语文 学科考试已结束! 今天还有 数学 学科未完成
     image: 
         src: back.svg
         alt: SVG LOGO

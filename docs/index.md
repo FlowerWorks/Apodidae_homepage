@@ -3,7 +3,7 @@ layout: home
 hero:
     name: Apodidae
     text: 轻量，节能，高性能的调度项目  
-    tagline: 2023 年沈阳中考圆满结束!
+    tagline: 另一种值得尝试的选择
     image: 
         src: back.svg
         alt: SVG LOGO

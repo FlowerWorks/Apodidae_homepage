@@ -3,7 +3,7 @@ layout: home
 hero:
     name: Apodidae
     text: 轻量，节能，高性能的调度项目  
-    tagline: 另一种值得尝试的选择
+    tagline: 即将跑路
     image: 
         src: back.svg
         alt: SVG LOGO

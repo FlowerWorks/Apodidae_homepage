@@ -22,9 +22,9 @@ Any Version Before This Version Will Be Unsuppoted
 > Redmi Note 12 Pro  
 ### Dimensity 1000L & 1000+ <Badge type="tip" text="Release" />
 > Unknown
-### Dimensity 9000 & 9000+ <Badge type="danger" text="In Progress" />
+### Dimensity 9000 & 9000+ <Badge type="danger" text="Alpha" />
 > Redmi K50 Pro
-### Helio G80 & G85 & P65 & P90 <Badge type="tip" text="Release" />
+### Helio G80 & G85 & P65 & P90 <Badge type="warning" text="Release" />
 > Redemi 9
 ### Dimensity 900 & 920 & 930 & 1080 <Badge type="danger" text="Alpha" />
 > Redmi Note 11 Pro

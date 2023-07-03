@@ -3,7 +3,7 @@ layout: home
 hero:
     name: Apodidae
     text: 轻量，节能，高性能的调度项目  
-    tagline: 即将跑路
+    tagline: Farewell!
     image: 
         src: back.svg
         alt: SVG LOGO

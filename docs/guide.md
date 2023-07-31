@@ -36,7 +36,8 @@ Apodidae 现已停止维护, 不支持 Cutoolbox V7.6.0 后(含)的任何版本
 兼容 CPU/GPU 的降压应用    
 清单：包括但不限于  
 - 自由电子 e 天玑降压
-- 嘟嘟 ski ＆ 秋秋 CPUhvfs  
+- 嘟嘟 ski ＆ 秋秋 CPUhvfs
+
 **降压带来的风险和问题与 Apodidae 没有任何间接或直接关系**
 
 

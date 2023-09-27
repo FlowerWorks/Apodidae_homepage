@@ -7,7 +7,7 @@ Apodidae 不是 Uperf (又称YC) 的二改，也与 Uperf 没有任何关联，�
 
 # 兼容性指南
 ## Cutoolbox Version
-Apodidae 现已停止维护, 不支持 Cutoolbox V7.6.0 后(含)的任何版本
+无论何时, 您都必须使用 Cutoobox 的最新版本  
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/chenzyyzd/CuprumTurbo-Scheduler?color=%23773bf9&label=Cutoolbox&style=flat-square)
 ## CPU Controller 

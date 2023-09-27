@@ -2,7 +2,7 @@
 Steps: In Progress > Canary > Alpha > Beta > Release Candidate > Release   
 In this page, you will see bradges like this:
 <Badge type="danger" text="In Progress" />  
-<Badge type="warnning" text="Alpha" />  
+<Badge type="warning" text="Alpha" />  
 Main Version Code is V4 Right Now   
 Any Version Before This Version Will Be Unsuppoted   
 
@@ -10,9 +10,9 @@ Any Version Before This Version Will Be Unsuppoted
 ## MediaTek
 ### Helio G90T & G90 <Badge type="danger" text="In Progress" />
 > Redmi Note 8 Pro  
-### Dimensity 8100 & 8000 <Badge type="warnning" text="Alpha" />
+### Dimensity 8100 & 8000 <Badge type="warning" text="Alpha" />
 > Redmi Note 11T Pro  
-### Dimensity 1200 & 1100 <Badge type="danger" text="In Progress" />
+### Dimensity 1200 & 1100 <Badge type="warning" text="Alpha" />
 > Redmi K40 Gaming Edition  
 ### Dimensity 700 & 720 & 800U & 810 <Badge type="danger" text="In Progress" />
 > Coolpad X11 Lab Edition    

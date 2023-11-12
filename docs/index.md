@@ -3,7 +3,7 @@ layout: home
 hero:
     name: Apodidae
     text: 轻量，节能，高性能的调度项目  
-    tagline: 一切照常
+    tagline: Apodidae 已停止维护.
     image: 
         src: back.svg
         alt: SVG LOGO

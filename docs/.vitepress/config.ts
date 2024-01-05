@@ -9,7 +9,7 @@ export default {
       { text: "Guide", link: "/guide"},
     ],
     footer: {
-      message: "Open Source under the GPL_V3 License.",
+      message: "Open Source under WTFPL V2 License.",
       copyright: "Copyright 2022-2023 FlowerWorks | Sunflower SIG"
     },
     head: [

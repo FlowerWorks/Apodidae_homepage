@@ -3,11 +3,11 @@
 本手册提供的任何信息都有在未来的某个时刻更改的可能  
 
 # 重要信息
-Apodidae 不是 Uperf (又称YC) 的二改，也与 Uperf 没有任何关联，您无法使用 Scene 等可管理 Uperf 的应用管理 Apodidae，如果您不想使用模块，则应使用 Cutoolbox 来实现对 Apodidae 的调控
+Apodidae 不是 Uperf (YC) 的二改，也与 Uperf 没有任何关联，您无法使用 Scene 等可管理 Uperf 的应用管理 Apodidae，如果您不想使用模块，则应使用 Cutoolbox 来实现对 Apodidae 的调控
 
 # 兼容性指南
 ## Cutoolbox Version
-您已无需使用 Cutoolbox 的最新版本
+您必须使用 Cutoolbox 的最新版本
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/chenzyyzd/CuprumTurbo-Scheduler?color=%23773bf9&label=Cutoolbox&style=flat-square)
 ## CPU Controller 
@@ -25,7 +25,6 @@ Apodidae 不是 Uperf (又称YC) 的二改，也与 Uperf 没有任何关联，�
 
 ## GPU Controller
 不兼容任何形式的 GPU 控制器，功能冲突     
-**MTD8100 除 2.6.14.Beta 外不再兼容任何形式的 GPU 控制器**    
 清单：包括但不限于  
 - Scene MTK 专属功能内的 GPU 相关选项
 - 带有 GPU 调控功能的 Uperf
@@ -54,13 +53,15 @@ Apodidae 提供了两种使用方式：
 - Magisk 模块
 - Cutoolbox 配置文件
 
-**两种使用方式只能选择一种，如果你非要一起用，打架别来找我**
+::: danger
+Magisk 模块和 Cutoolbox 只能使用其中一种
+:::
 
-**Magisk 模块切换模式需要在终端内使用`CuDaemon -R 【配置文件路径】【调度模式文件(cur_mode.txt)路径】【调度日志文件生成路径`**  
-**如果你看不懂上面那句话里的任何一个词，请使用 cutoolbox**  
+::: tip
+Magisk 模块切换模式需要在终端内输入 `CuDaemon -R [配置文件路径] [调度模式文件(cur_mode.txt)路径] [调度日志文件生成路径]`  
+如需获得更多信息, 请参照上游仓库用法
+:::
 
-**Apodidae 基于 CuprumTurbo-Scheduler，但与 Cutoolbox 不同，Cutoolbox 基于 CuprumTurbo-Scheduler 实现并加入了一些扩展功能**  
-**Apodidae 基于 CuprumTurbo-Scheduler, 但目前并未在源代码上做出任何更改，所以 Apodidae 与 CuprumTurbo-Scheduler 互相兼容**  
 
 ## 判断是否生效
 导入与 SoC 型号匹配的配置文件后点击上方显示状态的部分即可重启调度  
@@ -73,7 +74,7 @@ Apodidae 提供了两种使用方式：
 ## 为什么我的监测数据相对于其他人来说不够优秀
 SoC 体质，系统版本等等一大堆东西都会影响监测数据  
 
-## Uperf & Apodidae 为何选择我们？
+## Uperf 二改作者图鉴
 ![This is DJ](/uperf.jpg)  
 ![This is OP](/OP.jpg)
 

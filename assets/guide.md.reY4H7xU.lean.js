@@ -1,1 +1,0 @@
-import{_ as a,c as e,o,U as l,a1 as r,a2 as i}from"./chunks/framework.1S3nWeRo.js";const P=JSON.parse('{"title":"概述","description":"","frontmatter":{},"headers":[],"relativePath":"guide.md","filePath":"guide.md"}'),t={name:"guide.md"},s=l("",37),d=[s];function n(h,c,u,p,b,m){return o(),e("div",null,d)}const _=a(t,[["render",n]]);export{P as __pageData,_ as default};

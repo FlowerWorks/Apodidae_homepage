@@ -1,0 +1,1 @@
+import{_ as a,c as e,o,V as l,a2 as r,a3 as i}from"./chunks/framework.E3PrDvNC.js";const P=JSON.parse('{"title":"概述","description":"","frontmatter":{},"headers":[],"relativePath":"guide.md","filePath":"guide.md"}'),t={name:"guide.md"},s=l("",37),d=[s];function n(h,c,u,p,b,m){return o(),e("div",null,d)}const _=a(t,[["render",n]]);export{P as __pageData,_ as default};

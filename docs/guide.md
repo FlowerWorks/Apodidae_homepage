@@ -74,9 +74,10 @@ Magisk 模块切换模式需要在终端内输入 `CuDaemon -R [配置文件路�
 ## 为什么我的监测数据相对于其他人来说不够优秀
 SoC 体质，系统版本等等一大堆东西都会影响监测数据  
 
-## Uperf 二改作者图鉴
+## 免费动物园展出
 ![This is DJ](/uperf.jpg)  
-![This is OP](/OP.jpg)
+![This is OP](/OP.jpg)  
+![This is Monkey](/Screenshot_2024-01-30-15-45-22-465_com.tencent.mobileqq-edit.jpg)  
 
 <style lang="scss">
 ::-webkit-scrollbar {
